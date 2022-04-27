@@ -1,0 +1,22 @@
+body{
+
+margin: 0;}
+div{
+
+width: 1100px;margin-left: auto;margin-right: auto;margin-top: 50px;box-shadow: 0 0 10px #ede6e685;}
+h1{
+
+text-shadow: 1px 1px 10px #76727221;text-align: center;/* padding: 0; */margin: 0;font-size: 80px;}
+p{
+
+text-align: center;line-height: 1.2;margin: 0;font-size: 30px;}
+img{
+	
+max-width: 100%;}
+
+.colourpurple{
+
+color: #cf78cf78;}
+.colorred{
+	
+color: #ad1f1fad;}
